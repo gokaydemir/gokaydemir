@@ -1,4 +1,4 @@
-![Software Engineer](https://media.licdn.com/dms/image/D4D03AQEbgRoYOyApIQ/profile-displayphoto-shrink_800_800/0/1674761329044?e=1697068800&v=beta&t=R21t30YvtKTo3ZF5DJfzAgpNxys5nMoEcrrBqj_1NKw)
+
 ### Hi there 👋, I'm Gökay Demir
 #### Software Engineer
 
