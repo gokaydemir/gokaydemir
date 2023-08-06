@@ -6,8 +6,6 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
-
 ## 🚀 About Me
 As a Front-end Developer, I design websites for leading brands in both Europe and Turkey. Combining creativity, technical expertise, and a keen eye for aesthetics, I focus on enhancing user experiences. With my advanced coding and design skills, I strive to exceed my clients' expectations. Collaboration is at the heart of my approach, and I thrive in a team environment, leveraging strong communication skills to deliver successful project outcomes. My goal is to create unique and impactful digital experiences that help brands forge strong connections with their target audiences. 
 
