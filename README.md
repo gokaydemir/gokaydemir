@@ -1,6 +1,7 @@
+![Software Engineer](https://media.licdn.com/dms/image/D4D03AQEbgRoYOyApIQ/profile-displayphoto-shrink_800_800/0/1674761329044?e=1697068800&v=beta&t=R21t30YvtKTo3ZF5DJfzAgpNxys5nMoEcrrBqj_1NKw)
 ### Hi there 👋, I'm Gökay Demir
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/D4D03AQEbgRoYOyApIQ/profile-displayphoto-shrink_800_800/0/1674761329044?e=1697068800&v=beta&t=R21t30YvtKTo3ZF5DJfzAgpNxys5nMoEcrrBqj_1NKw)
+
 
 Hello, my name is Gökay Demir. I am a graduate of Software Engineering from Beykent University and have been developing my skills in front-end development since 2021.
 
