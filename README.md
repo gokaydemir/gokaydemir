@@ -14,11 +14,9 @@ As a Front-end Developer, I design websites for leading brands in both Europe an
 ✅ React <br>
 ✅ HTML5 <br>
 ✅ CSS3 <br>
-✅ .Net Web Form <br>
+✅ .Net<br>
 ✅ Sql <br>
 ✅ Git <br>
-✅ Vite <br>
-✅ Bulma <br>
 ✅ Bootstrap5 <br>
 
 
