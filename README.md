@@ -11,10 +11,17 @@ As a Front-end Developer, I design websites for leading brands in both Europe an
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ JavaScript <br> 
+✅ React <br>
 ✅ HTML5 <br>
 ✅ CSS3 <br>
-✅ Bootstrap5 / Git <br>
+✅ .Net Web Form <br>
 ✅ Sql <br>
+✅ Git <br>
+✅ Vite <br>
+✅ Bulma <br>
+✅ Bootstrap5 <br>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokaydemir)
 
