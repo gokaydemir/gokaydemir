@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,NextJs**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **gokaydemir99@gmail.com**
 
