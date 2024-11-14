@@ -35,7 +35,11 @@
       <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
    </a>
 </p>
+
+
 ---
+
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&theme=radical" alt="Gökay Demir Streak Stats" width="60%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&theme=radical&hide_border=true" alt="Gökay Demir Streak Stats" width="60%" />
 </p>
+
