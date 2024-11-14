@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&theme=radical" alt="gokaydemir Streak Stats" width="60%"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=gokaydemir&theme=radical&hide_border=true" alt="Gökay Demir Streak Stats" width="60%"/>
 </p>
