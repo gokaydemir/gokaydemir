@@ -5,11 +5,13 @@
    <img src="https://img.shields.io/badge/Profile%20Views-1000+-blue?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-- 🌱 I’m currently learning **React, NextJs**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **gokaydemir99@gmail.com**
+<p align="center">
+   <samp>
+      🌱 <strong>Currently Learning:</strong> Leveling up with <b>React</b> & <b>Next.js</b> to craft seamless, responsive UIs.<br><br>
+      💡 <strong>Expertise:</strong> Always exploring the latest in <b>JavaScript</b>, <b>UI/UX Design</b>, and front-end technologies.<br><br>
+      📬 <strong>Get in Touch:</strong> Looking to collaborate? Feel free to reach out at <a href="mailto:gokaydemir99@gmail.com"><b>gokaydemir99@gmail.com</b></a>!
+   </samp>
+</p>
 
 ---
 
@@ -18,9 +20,13 @@
    <a href="https://linkedin.com/in/gokay-demir/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokay-demir/" height="30" width="40" />
    </a>
+   <a href="mailto:gokaydemir99@gmail.com" target="blank">
+      <img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="gokaydemir99@gmail.com" height="30" width="40" />
+   </a>
 </p>
 
 ---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
