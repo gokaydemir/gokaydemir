@@ -40,7 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=radical" alt="GitHub Trophies" width="60%" />
 </p>
-
-
