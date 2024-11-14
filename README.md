@@ -40,6 +40,7 @@
 ---
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&theme=radical&hide_border=true" alt="Gökay Demir Streak Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats" width="60%" />
 </p>
+
 
