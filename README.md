@@ -14,14 +14,13 @@
 </p>
 
 ---
-
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact" alt="gokaydemir" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/gokay-demir/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokay-demir/" height="30" width="40" />
-   </a>
-   <a href="mailto:gokaydemir99@gmail.com" target="blank">
-      <img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="gokaydemir99@gmail.com" height="30" width="40" />
    </a>
 </p>
 
@@ -67,6 +66,4 @@
 
 ---
 
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact" alt="gokaydemir" />
-</p>
+
