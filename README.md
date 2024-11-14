@@ -64,7 +64,3 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact" alt="gokaydemir" />
 </p>
-
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&" alt="gokaydemir" />
-</p>
