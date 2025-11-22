@@ -14,7 +14,7 @@ Hi! I'm Gökay, a Frontend Developer specialized in building **scalable**, **res
 </p>
 
 ---
-<p aling="center"> 
+<p align="center"> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
 </p>
 
