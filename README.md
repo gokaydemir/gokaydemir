@@ -7,8 +7,13 @@
 
 ## 🚀 Frontend Developer | Crafting Modern Web Experiences
 
-Hi! I'm Gökay, a Frontend Developer specialized in building **scalable**, **responsive**, and **user-centric** web interfaces using modern frameworks.
+<p align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=7E57C2&center=true&vCenter=true&width=435&lines=I+am+a+Frontend+Developer;I+love+React+%26+Next.js;I+specialize+in+TypeScript;I+build+Scalable+UX%2FUI" alt="Typing SVG"/>
+   </a>
+</p>
 
+---
 <p align="center">
    <em>"Passionate about clean code, high performance, and impactful design."</em>
 </p>
@@ -30,12 +35,10 @@ The core technologies and tools I rely on:
 ***Note: If you see "Error Fetching Resource," the external image service is temporarily down.***
 
 <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
    &nbsp;&nbsp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
 </p>
-
----
 
 ### 💡 Daily Contributions
 
