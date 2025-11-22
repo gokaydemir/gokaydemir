@@ -14,14 +14,9 @@ Hi! I'm Gökay, a Frontend Developer specialized in building **scalable**, **res
 </p>
 
 ---
-
-### 💡 Latest Activity
-
-<p align="center">
-      <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
+<p aling="center"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
 </p>
-
----
 
 ## 🛠️ My Tech Stack
 
@@ -39,8 +34,13 @@ The core technologies and tools I rely on:
 
 <p align="center" >
       <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
-   &nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
+</p>
+
+---
+### 💡 Latest Activity
+
+<p align="center">
+      <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
