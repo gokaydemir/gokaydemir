@@ -40,9 +40,8 @@ A glimpse into my development journey and preferred languages:
 </p>
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=radical&no-bg=true" alt="GitHub Trophies" width="60%" />
+   <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=dracula" alt="GitHub Trophies" width="60%" />
 </p>
-
 ---
 
 ## 📬 Let's Connect
