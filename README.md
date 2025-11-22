@@ -14,9 +14,6 @@ Hi! I'm Gökay, a Frontend Developer specialized in building **scalable**, **res
 </p>
 
 ---
-<p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
-</p>
 
 ## 🛠️ My Tech Stack
 
@@ -28,19 +25,28 @@ The core technologies and tools I rely on:
 
 ---
 
-## 📊 My GitHub Activity & Stats
+## 📊 My Development Statistics
 
 ***Note: If you see "Error Fetching Resource," the external image service is temporarily down.***
 
-<p align="center" >
+<p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
+   &nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
 </p>
 
 ---
-### 💡 Latest Activity
+
+### 💡 Daily Contributions
 
 <p align="center">
-      <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
+   <img src="https://github-contributor-stats.vercel.app/api?username=gokaydemir&limit=5&theme=radical" alt="Gökay's Contributor Stats" width="60%"/>
+</p>
+
+### 📈 Latest Activity
+
+<p align="center">
+   <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -48,7 +54,7 @@ The core technologies and tools I rely on:
 ## 📬 Connect with Me
 
 <p align="center">
-      <a href="https://linkedin.com/in/gokay-demir/" target="_blank">
+   <a href="https://linkedin.com/in/gokay-demir/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
    <a href="mailto:gokaydemir99@gmail.com">
