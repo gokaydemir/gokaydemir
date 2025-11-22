@@ -1,37 +1,37 @@
-# ✨ Hey, Ben Gökay Demir!
+# ✨ Hey There! I'm Gökay Demir!
 
 <p align="center">
    <img src="https://img.shields.io/badge/-Frontend%20Developer-7E57C2?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Developer Badge"/>
    <img src="https://komarev.com/ghpvc/?username=gokaydemir&color=blueviolet" alt="Profile views"/>
 </p>
 
-## 🚀 Frontend Geliştirici & Kullanıcı Deneyimi Tutkunu
+## 🚀 Frontend Developer & UX Enthusiast
 
-Merhaba! Ben Gökay, **ölçeklenebilir**, **duyarlı** (responsive) ve **kullanıcı odaklı** web deneyimleri tasarlayıp geliştirmeye odaklanmış bir **Frontend Developer**'ım. Kullanıcı arayüzünü (UI) kodla buluşturmaktan ve her projede **mükemmel kullanıcı deneyimini (UX)** hedeflemekten keyif alıyorum.
+Hi! I'm Gökay, a **Frontend Developer** focused on designing and building **scalable**, **responsive**, and **user-centric** web experiences. I am passionate about bringing user interfaces (UI) to life with code and always aim for **excellent user experience (UX)** in every project.
 
 <p align="center">
-   <em>"Kullanıcıların seveceği, bakımı kolay ve performansı yüksek kod yazmak benim için bir sanattır."</em>
+   <em>"Writing clean, high-performance, and maintainable code that users love is an art to me."</em>
 </p>
 
 ---
 
-## 🛠️ Benim Araç Kutum (Tech Stack)
+## 🛠️ My Tech Stack & Toolkit
 
-Modern Frontend geliştirme için kullandığım başlıca teknolojiler ve araçlar:
+The core technologies and tools I use for modern Frontend development:
 
-| Kategori | Teknolojiler |
+| Category | Technologies |
 | :--- | :--- |
-| **JS Çerçeveleri** | <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" /> |
-| **İşaretleme & Stil** | <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap" /> |
-| **Versiyon Kontrol** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
-| **Tasarım & Prototipleme** | <img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> |
-| **Ekstra** | <img src="https://skillicons.dev/icons?i=ts,vscode" alt="TypeScript, VS Code" /> |
+| **JS Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" alt="React, Next.js, TypeScript, JavaScript" /> |
+| **Styling & Markup** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="HTML, CSS, Tailwind CSS, Bootstrap" /> |
+| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
+| **Design & IDE** | <img src="https://skillicons.dev/icons?i=figma,vscode" alt="Figma, VS Code" /> |
+| **Data & Concepts** | <img src="https://skillicons.dev/icons?i=xml" alt="XML" /> (XML/YML Feeds), OOP Principles |
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
-Geliştirme yolculuğumdan bazı istatistikler ve dil tercihlerim:
+A glimpse into my development journey and preferred languages:
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
@@ -45,27 +45,27 @@ Geliştirme yolculuğumdan bazı istatistikler ve dil tercihlerim:
 
 ---
 
-## 📬 Benimle İletişime Geçin
+## 📬 Let's Connect
 
-Yeni projeler, iş fırsatları veya sadece teknoloji üzerine sohbet etmek için her zaman açığım!
+I am always open to discussing new projects, job opportunities, or simply chatting about tech!
 
-| Platform | Bağlantı |
+| Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokay-demir/) |
-| **E-posta** | [![Email Me](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokaydemir99@gmail.com) |
+| **Email** | [![Email Me](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokaydemir99@gmail.com) |
 
 ---
 
-## 💡 Güncel Aktivite
+## 💡 Latest Activity
 
 <p align="center">
-   <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay'ın GitHub Aktivite Grafiği" width="100%"/>
+   <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
 
-## ⭐️ Son Not
+## ⭐️ Final Note
 
-Bu repoyu beğendiyseniz veya projelerim ilginizi çektiyse, bir yıldız (⭐️) vermekten çekinmeyin! Teşekkürler!
+If you liked this repo or found my projects interesting, feel free to drop a star (⭐️)! Thank you!
 
 ---
