@@ -17,10 +17,10 @@ Hi! I'm Gökay, a Frontend Developer specialized in building **scalable**, **res
 
 ## 🛠️ My Tech Stack
 
-The core technologies I rely on:
+The core technologies and tools I rely on:
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,figma,vscode,xml" alt="Tech stack icons: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Git, GitHub, Figma, VSCode, XML" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github,gitlab,figma,vscode,xml" alt="Tech stack icons: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Git, GitHub, GitLab, Figma, VSCode, XML" />
 </p>
 
 ---
