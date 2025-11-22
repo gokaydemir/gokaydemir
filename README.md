@@ -15,6 +15,27 @@ Hi! I'm Gökay, a **Frontend Developer** focused on designing and building **sca
 
 ---
 
+## 💡 What I'm Currently Doing
+
+* **Learning:** Deep diving into **Performance Optimization** techniques (Lighthouse score improvements, bundle splitting).
+* **Exploring:** Experimenting with **Server Components** in Next.js 14 for better data fetching.
+* **Focusing on:** Building reusable and accessible UI components with **Storybook**.
+
+---
+
+## 🎯 My Featured Projects
+
+Here are a few projects that highlight my skills in React, Next.js, and clean architecture.
+
+* ### [Project Name 1: E-commerce Dashboard](https://github.com/gokaydemir/repository-1-linki)
+    > A data-driven dashboard built with React and TypeScript, featuring dynamic charts and state management via Redux Toolkit.
+* ### [Project Name 2: Landing Page Generator](https://github.com/gokaydemir/repository-2-linki)
+    > A tool leveraging Next.js static generation capabilities to create ultra-fast, high-SEO landing pages using Tailwind CSS.
+* ### [Project Name 3: XML Feed Parser](https://github.com/gokaydemir/repository-3-linki)
+    > A Node.js utility demonstrating my experience in processing and validating complex XML/YML product feeds for e-commerce integration.
+
+---
+
 ## 🛠️ My Tech Stack & Toolkit
 
 The core technologies and tools I use for modern Frontend development:
@@ -29,9 +50,9 @@ The core technologies and tools I use for modern Frontend development:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (If external services resume)
 
-A glimpse into my development journey and preferred languages:
+***Note: If you encounter an "Error Fetching Resource," these external services may be temporarily paused by their owner. Please check back later.***
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=dark&hide=contribs,issues&include_all_commits=true&line_height=21" alt="gokaydemir GitHub Stats" width="48%"/>
@@ -39,9 +60,6 @@ A glimpse into my development journey and preferred languages:
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=dark" alt="gokaydemir Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=dracula" alt="GitHub Trophies" width="60%" />
-</p>
 ---
 
 ## 📬 Let's Connect
@@ -52,14 +70,6 @@ I am always open to discussing new projects, job opportunities, or simply chatti
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokay-demir/) |
 | **Email** | [![Email Me](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokaydemir99@gmail.com) |
-
----
-
-## 💡 Latest Activity
-
-<p align="center">
-   <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=github" alt="Gökay's GitHub Activity Graph" width="100%"/>
-</p>
 
 ---
 
