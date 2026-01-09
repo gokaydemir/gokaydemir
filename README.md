@@ -31,3 +31,46 @@ const gokay = {
   challenge: "Trying to center a div without Googling it",
   funFact: "I treat console.log() as a legitimate debugger."
 };
+```
+
+---
+
+<div align="center">
+  <h3>🛠️ The Toolbox</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,bootstrap,sass,git,github,vscode,figma,postman&perline=15" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+  </div>
+
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="30" alt="Backend Familiarity" /> 
+  <p><i>(Also tinkering with backend technologies occasionally!)</i></p>
+
+  <br/>
+
+  <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57C2&height=100&section=footer"/>
+</div>
