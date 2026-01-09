@@ -1,76 +1,65 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
-  <h1>Hey, I'm Gökay! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSZu46d/giphy.gif" width="35px"/></h1>
+  <h1>Hi 👋 I'm Gökay</h1>
+  <h3>Frontend Developer · React & Next.js</h3>
+</div>
 
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7E57C2&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Pixel+Perfect+UI+Lover+%F0%9F%8E%A8" alt="Typing SVG"/>
-    </a>
-  </p>
+<br/>
 
+<div align="center">
   <a href="https://linkedin.com/in/gokay-demir/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gokaydemir99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gokaydemir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 Who am I?
+---
 
-I'm a Frontend Developer who loves building **scalable** and **interactive** web applications. I don't just write code; I craft experiences.
+### 👨‍💻 About Me
 
-```javascript
-const gokay = {
-  pronouns: "He/Him",
-  code: ["Javascript", "TypeScript", "React", "Next.js"],
-  tools: ["Redux", "Tailwind", "Git", "Figma"],
-  architecture: ["Micro-Frontends", "Atomic Design"],
-  challenge: "Trying to center a div without Googling it",
-  funFact: "I treat console.log() as a legitimate debugger."
+Frontend Developer with a strong focus on **React** and **Next.js**.  
+I enjoy building **scalable**, **accessible**, and **high-performance** user interfaces with clean architecture and reusable components.
+
+- ⚛️ React / Next.js (App Router)
+- 🧠 Component-driven & scalable UI design
+- 🎯 Performance & accessibility focused
+- 🚀 Continuous learner
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,sass&perline=9&theme=light" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs,express,mongodb,vercel&perline=8&theme=light" />
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&hide_border=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&hide_border=true&theme=default" height="160" />
+</div>
+
+---
+
+```js
+const Gokay = {
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "TypeScript"],
+  focus: ["UI Architecture", "Performance", "Accessibility"],
+  mindset: "Clean code, scalable systems"
 };
-```
 
----
-
-<div align="center">
-  <h3>🛠️ The Toolbox</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,bootstrap,sass,git,github,vscode,figma,postman&perline=15" />
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokaydemir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokaydemir&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-  </div>
-
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="30" alt="Backend Familiarity" /> 
-  <p><i>(Also tinkering with backend technologies occasionally!)</i></p>
-
-  <br/>
-
-  <img src="https://activity-graph.vercel.app/graph?username=gokaydemir&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E57C2&height=100&section=footer"/>
-</div>
+if (project.needs("quality")) {
+  Gokay.startCoding();
+}
