@@ -23,13 +23,13 @@
 
 ### 👨‍💻 About Me
 
-Frontend Developer with a strong focus on **React** and **Next.js**.  
-I enjoy building **scalable**, **accessible**, and **high-performance** user interfaces with clean architecture and reusable components.
+Frontend Developer focused on **React** and **Next.js**, building **scalable**, **accessible**, and **high-performance** user interfaces.  
+I care deeply about clean architecture, reusable components, and long-term maintainability.
 
 - ⚛️ React / Next.js (App Router)
-- 🧠 Component-driven & scalable UI design
-- 🎯 Performance & accessibility focused
-- 🚀 Continuous learner
+- 🧩 Component-driven UI architecture
+- ♿ Accessibility & performance first
+- 🚀 Continuous improvement mindset
 
 ---
 
@@ -43,12 +43,28 @@ I enjoy building **scalable**, **accessible**, and **high-performance** user int
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokaydemir&show_icons=true&hide_border=true&theme=default" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokaydemir&hide_border=true&theme=default" height="160" />
-</div>
+- **AI-Powered Recommendation System**  
+  Personalized product recommendations using modern frontend architecture and API integrations.
+
+- **Content Management Dashboard**  
+  Scalable admin panel with role-based access, optimized data handling, and reusable UI components.
+
+- **E-commerce Frontend**  
+  Performance-focused storefront with SEO-friendly structure and modern UX patterns.
+
+> _More projects available on my GitHub profile._
+
+---
+
+### 🧠 Core Principles
+
+- Clean & readable code over clever hacks  
+- Reusability and scalability first  
+- Accessibility is not optional  
+- Performance matters at every layer  
+- UI should feel effortless to the user
 
 ---
 
@@ -57,7 +73,7 @@ const Gokay = {
   role: "Frontend Developer",
   stack: ["React", "Next.js", "TypeScript"],
   focus: ["UI Architecture", "Performance", "Accessibility"],
-  mindset: "Clean code, scalable systems"
+  mindset: "Build it right, not just fast"
 };
 
 if (project.needs("quality")) {
