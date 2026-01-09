@@ -68,14 +68,6 @@ I care deeply about clean architecture, reusable components, and long-term maint
 
 ---
 
-```js
-const Gokay = {
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "TypeScript"],
-  focus: ["UI Architecture", "Performance", "Accessibility"],
-  mindset: "Build it right, not just fast"
-};
-
-if (project.needs("quality")) {
-  Gokay.startCoding();
-}
+<div align="center">
+  <sub>Building reliable interfaces with modern web technologies.</sub>
+</div>
